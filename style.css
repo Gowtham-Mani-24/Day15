@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(220, 221, 223);
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: rgb(77, 75, 75);
+    color: white;
+
+}
